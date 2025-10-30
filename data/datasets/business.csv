@@ -1,0 +1,1001 @@
+Customer_ID!!,Purchase_Date###, Product category,Amount_Paid_($)@@,Discount applied@@,COUNTRY!!,City###,CUSTOMER REVIEW  
+100a,21-09-2023,Electronics,N/A,True,Germany,Toronto,Excellent product!
+,,,,True,Spain,Rome,Customer service was awful.
+,2023/06/18,Clothing,,True,Mexico,Paris,Worst purchase ever.
+103a,26-11-2023,Home,$200,Yes,Germany,Los Angeles,Customer service was awful.
+104a,2023/11/16,Clothing,,False,USA,Toronto,Customer service was awful.
+105a,2023/09/07,Clothing,N/A,False,Italy,,Totally worth it!
+106a,16-06-2023,Home,N/A,No,Spain,Rome,"Meh, it's okay."
+,2023-10-30,,206$,,USA,Paris,Would buy again!
+108,06-10-2023,Electronics,$199,Unknown,Italy,,Totally worth it!
+,2023-03-03,,,Unknown,Italy,London,
+110a,21-09-2023,Clothing,$134,Yes,USA,Toronto,Excellent product!
+,2023/03/14,Electronics,,True,Mexico,Rome,Customer service was awful.
+112,07-06-2023,Electronics,N/A,False,France,Los Angeles,Customer service was awful.
+,2023/01/18,Clothing,$455,False,Mexico,Berlin,Would buy again!
+,2023-07-09,Home,N/A,No,France,London,Worst purchase ever.
+115a,03-02-2023,Home,N/A,,Spain,Toronto,"Defective item, had to return."
+116,2023-05-23,Home,116$,,UK,New York,Amazing!
+117a,2023-01-19,Electronics,352,No,Italy,,Customer service was awful.
+,22-06-2023,,-100,False,Canada,Paris,
+119,20-07-2023,Clothing,N/A,True,Canada,Los Angeles,Totally worth it!
+120,,Electronics,319,False,Mexico,,
+,2023/10/09,Home,,False,Italy,Paris,Customer service was awful.
+122,,Electronics,$177,No,Spain,Paris,Worst purchase ever.
+123a,04-11-2023,,N/A,Unknown,Mexico,,"Meh, it's okay."
+,28-12-2023,,218,,USA,London,"Meh, it's okay."
+125a,01-01-2023,Home,N/A,No,UK,Los Angeles,"Arrived late, but good quality."
+126a,2023-11-25,,242,,France,Paris,Would buy again!
+127a,2023/10/28,,,False,UK,Rome,Worst purchase ever.
+128a,2023-08-03,Home,$172,Yes,France,New York,Customer service was awful.
+129a,2023/09/24,Clothing,215$,False,USA,New York,
+,2023/12/22,,-120,No,Italy,,Customer service was awful.
+,2023-09-22,,N/A,,USA,Madrid,"Arrived late, but good quality."
+132,2023/02/28,Electronics,N/A,,USA,Madrid,Would buy again!
+133a,2023-09-06,Electronics,$246,False,France,Madrid,Totally worth it!
+134a,2023-08-18,Electronics,N/A,False,Germany,Rome,Worst purchase ever.
+,28-03-2023,Home,N/A,False,France,London,Totally worth it!
+136a,28-09-2023,,$317,,UK,Rome,Excellent product!
+137a,2023-11-15,Home,-52,Unknown,USA,Berlin,"Arrived late, but good quality."
+138,2023-07-27,Clothing,,Yes,Mexico,London,"Defective item, had to return."
+139,,Clothing,N/A,False,Germany,Paris,"Low quality, bad experience."
+,22-02-2023,Clothing,N/A,False,France,Madrid,
+141,21-07-2023,Home,N/A,True,Spain,Rome,
+,,Electronics,,Yes,France,Toronto,Totally worth it!
+143,2023/02/08,Home,484$,,Canada,Madrid,Amazing!
+,,Home,N/A,Yes,France,,Worst purchase ever.
+,2023-03-21,Electronics,,False,Germany,Rome,Worst purchase ever.
+,09-10-2023,,374,Yes,Italy,Madrid,"Meh, it's okay."
+,2023/10/20,Clothing,31$,No,Spain,Rome,
+148a,2023-06-06,Clothing,226$,Unknown,Italy,Toronto,Amazing!
+149,2023-10-07,Electronics,379$,True,USA,Toronto,Amazing!
+,2023-01-16,Home,$470,No,Germany,London,
+,,Clothing,252,False,Spain,Los Angeles,"Low quality, bad experience."
+,12-03-2023,,296,Yes,USA,Rome,Excellent product!
+153a,22-06-2023,,401$,Unknown,Mexico,Paris,Would buy again!
+154,30-10-2023,Home,,No,Spain,Berlin,"Arrived late, but good quality."
+155,,,$166,False,Italy,Rome,"Low quality, bad experience."
+,2023/08/12,Electronics,87$,True,Italy,,Would buy again!
+,2023-08-25,Home,,Unknown,Spain,Madrid,Amazing!
+158,19-10-2023,Home,N/A,True,USA,New York,"Meh, it's okay."
+159,01-02-2023,Electronics,,Yes,UK,London,
+160,2023-07-29,Home,N/A,,Germany,Rome,Totally worth it!
+161,2023-10-28,Clothing,334$,True,Mexico,Berlin,Would buy again!
+162a,2023-11-24,,,Yes,France,New York,Worst purchase ever.
+,23-01-2023,Home,$192,False,UK,London,
+164,2023-04-26,Home,,True,Italy,Toronto,Totally worth it!
+165,2023/08/11,Clothing,,Yes,Canada,Madrid,"Low quality, bad experience."
+,2023-09-20,Home,N/A,False,France,Toronto,Would buy again!
+167a,2023/01/04,,N/A,False,Italy,Toronto,Worst purchase ever.
+168a,2023/05/27,Electronics,104$,Yes,France,Rome,
+,2023/11/10,,176$,False,France,Toronto,"Arrived late, but good quality."
+170a,2023-08-19,Home,,,Germany,,Customer service was awful.
+171a,2023-07-02,Clothing,$201,False,Italy,New York,Would buy again!
+172,2023-11-14,Clothing,$334,True,Canada,London,
+173,2023/08/26,Electronics,309,True,Germany,Madrid,Customer service was awful.
+174,2023/12/08,,$232,False,USA,Paris,"Defective item, had to return."
+175a,2023/12/16,,N/A,No,Mexico,Toronto,Customer service was awful.
+176,2023-12-05,Home,392$,Yes,Mexico,Los Angeles,Customer service was awful.
+,2023/01/04,Clothing,$11,No,Germany,Los Angeles,Worst purchase ever.
+178a,2023-04-10,,89$,Unknown,UK,Los Angeles,Amazing!
+,16-07-2023,,$321,Yes,France,Berlin,Customer service was awful.
+,2023-06-13,Home,$338,No,Germany,New York,"Arrived late, but good quality."
+181a,2023-11-19,Home,$178,True,Germany,London,"Low quality, bad experience."
+182a,21-07-2023,Electronics,N/A,True,Mexico,Madrid,Customer service was awful.
+183,24-09-2023,Clothing,15$,No,Canada,Los Angeles,"Meh, it's okay."
+184a,,,N/A,True,Mexico,Madrid,Customer service was awful.
+,2023/09/04,Clothing,N/A,False,Mexico,New York,"Arrived late, but good quality."
+186a,19-03-2023,Electronics,471$,False,France,New York,Customer service was awful.
+187,2023-10-03,Electronics,498,False,France,Berlin,Excellent product!
+,2023/07/24,Clothing,-90,True,France,Madrid,Worst purchase ever.
+189,2023-10-02,Electronics,242$,Yes,Italy,Madrid,Customer service was awful.
+190a,09-03-2023,,$128,,UK,Los Angeles,"Meh, it's okay."
+191a,,Clothing,252$,Unknown,Germany,Berlin,Totally worth it!
+192a,04-04-2023,Clothing,163$,No,France,Madrid,"Defective item, had to return."
+,11-06-2023,Home,303$,False,USA,London,"Meh, it's okay."
+,2023-06-23,Electronics,N/A,Yes,USA,New York,Worst purchase ever.
+,13-07-2023,,192$,False,Spain,,Customer service was awful.
+196,,Electronics,278,,Mexico,,Worst purchase ever.
+197,2023-08-27,Clothing,N/A,Unknown,Mexico,,"Meh, it's okay."
+198,2023-07-14,,$301,No,Italy,Paris,"Meh, it's okay."
+,08-11-2023,,N/A,True,France,Toronto,Worst purchase ever.
+200,2023/10/29,Clothing,247$,False,France,Paris,Amazing!
+201,17-12-2023,Home,,Yes,Spain,New York,Would buy again!
+202,31-07-2023,Home,155$,True,Germany,Berlin,"Defective item, had to return."
+203a,2023-08-25,Clothing,,False,Germany,Rome,Excellent product!
+204,2023/09/28,,75$,Yes,Canada,London,Totally worth it!
+205,2023-09-27,Electronics,,True,France,London,Worst purchase ever.
+206a,11-10-2023,Clothing,,False,Spain,Paris,
+207,2023/12/30,Clothing,$301,False,France,,"Arrived late, but good quality."
+,2023-04-16,,141$,No,UK,,Worst purchase ever.
+209a,23-11-2023,Electronics,$473,False,France,Berlin,Customer service was awful.
+210,2023-12-16,Home,-124,No,Spain,Madrid,Amazing!
+,24-07-2023,Electronics,374$,False,USA,New York,Excellent product!
+212a,,Electronics,N/A,False,UK,Los Angeles,Amazing!
+,2023/03/07,Clothing,,,Germany,Berlin,"Meh, it's okay."
+214,2023/05/29,Clothing,$147,Unknown,Mexico,Madrid,"Meh, it's okay."
+,20-07-2023,Electronics,105,Yes,France,New York,Would buy again!
+216a,2023/02/03,,$29,No,Germany,Berlin,Excellent product!
+217,,Electronics,N/A,No,UK,Madrid,
+218,2023-05-09,,-69,Unknown,Germany,,
+219a,2023-08-21,,283,Unknown,Italy,Los Angeles,Totally worth it!
+220a,2023-12-09,Home,,No,Spain,Los Angeles,"Meh, it's okay."
+,2023-10-17,Home,,False,UK,,Would buy again!
+,,Home,$28,Unknown,USA,London,Totally worth it!
+223a,02-08-2023,Home,,True,Italy,New York,"Low quality, bad experience."
+,2023/06/14,Home,N/A,No,Italy,Berlin,Amazing!
+,2023-04-21,Electronics,208$,False,France,Rome,"Defective item, had to return."
+226,29-06-2023,,N/A,,UK,Paris,Worst purchase ever.
+227a,2023/07/05,Home,$439,,France,Toronto,Worst purchase ever.
+228,2023/02/07,Electronics,,False,Spain,Paris,Worst purchase ever.
+229a,2023/01/17,Clothing,195$,No,Italy,Toronto,Totally worth it!
+230,,Clothing,,False,UK,Paris,Would buy again!
+231,15-06-2023,Electronics,-181,No,USA,Rome,Customer service was awful.
+232a,2023/03/05,,,False,USA,Berlin,"Arrived late, but good quality."
+,2023/03/07,Home,$30,Unknown,Mexico,Rome,Worst purchase ever.
+,10-02-2023,Electronics,$84,Unknown,Canada,London,"Arrived late, but good quality."
+,22-05-2023,Clothing,309,False,UK,New York,
+236,15-01-2023,Home,N/A,False,Italy,London,Excellent product!
+237,2023/05/10,Clothing,$349,True,France,New York,"Arrived late, but good quality."
+238a,2023/02/16,Clothing,191,False,Mexico,Madrid,
+239,2023/09/25,,398,False,Spain,Berlin,Excellent product!
+240,2023/02/05,,-73,Unknown,USA,Toronto,"Arrived late, but good quality."
+241a,20-04-2023,Home,116$,False,Spain,London,"Arrived late, but good quality."
+,2023-06-29,Electronics,$47,Unknown,Germany,Madrid,"Meh, it's okay."
+243,2023/04/12,,,True,Mexico,Toronto,"Meh, it's okay."
+244,2023/01/29,,N/A,Yes,UK,Rome,Totally worth it!
+245,2023/07/02,Electronics,$414,False,France,Los Angeles,Would buy again!
+246,2023-01-18,Home,N/A,False,Canada,London,Customer service was awful.
+247,2023/07/14,Home,,Yes,UK,Madrid,Totally worth it!
+248,28-08-2023,Electronics,300,False,Germany,Los Angeles,Amazing!
+,2023/11/15,Clothing,-91,False,Spain,Toronto,
+,2023/03/09,Clothing,42$,Yes,Spain,Berlin,Customer service was awful.
+251,10-05-2023,,$311,Yes,Italy,Los Angeles,"Meh, it's okay."
+,2023/01/08,,65$,No,Germany,Madrid,
+253,04-03-2023,,N/A,False,Italy,New York,Excellent product!
+254,2023-01-04,Clothing,228,False,Spain,,"Low quality, bad experience."
+,2023-01-31,,N/A,No,Germany,Berlin,
+,2023-02-20,Home,-47,False,Canada,New York,"Arrived late, but good quality."
+,2023/09/05,Home,N/A,,Mexico,Paris,"Meh, it's okay."
+258,,Clothing,247$,False,USA,Toronto,Amazing!
+259a,2023-04-02,Home,459$,False,Germany,Paris,
+260a,2023/05/08,Home,157,,Germany,Madrid,
+261,,Electronics,N/A,False,France,Toronto,Would buy again!
+262,2023-09-29,,164,True,Mexico,Los Angeles,
+263,2023/12/09,,,Unknown,Germany,Madrid,Worst purchase ever.
+264a,2023-12-28,Clothing,452,Unknown,Italy,Los Angeles,Excellent product!
+,10-04-2023,Clothing,,No,UK,Paris,Worst purchase ever.
+266a,24-08-2023,Electronics,$288,Yes,Canada,New York,
+267a,17-10-2023,,232$,False,Mexico,Los Angeles,Amazing!
+268,,,,No,UK,London,"Arrived late, but good quality."
+269a,2023-01-17,,93$,,France,Paris,Totally worth it!
+270a,2023-11-15,,312$,True,Canada,Madrid,"Meh, it's okay."
+271,2023/10/03,Clothing,,False,Italy,New York,"Low quality, bad experience."
+,29-11-2023,Clothing,,No,Canada,Paris,Worst purchase ever.
+273,30-11-2023,,,,France,Los Angeles,
+274a,29-03-2023,,N/A,True,UK,Berlin,"Defective item, had to return."
+275,2023-02-25,Home,84$,No,Italy,Rome,Would buy again!
+276,08-06-2023,,463,Yes,Mexico,,
+,2023-09-11,Home,,False,USA,London,"Defective item, had to return."
+278a,2023/08/08,Home,N/A,False,Germany,Berlin,
+,2023/05/04,,288,No,Spain,Rome,"Arrived late, but good quality."
+,2023/11/15,Home,N/A,No,UK,Paris,Excellent product!
+281,2023-06-22,Home,,False,Mexico,New York,
+282a,2023-02-05,Electronics,137$,Yes,France,Toronto,Worst purchase ever.
+283,02-07-2023,Clothing,-127,Yes,UK,Berlin,
+284a,2023/02/23,Clothing,$451,Yes,Canada,Los Angeles,Would buy again!
+285,,,N/A,,Germany,Rome,Totally worth it!
+286a,2023/01/07,Clothing,$402,No,USA,Rome,"Meh, it's okay."
+,13-12-2023,Electronics,$350,No,Italy,,
+288a,29-10-2023,Clothing,,True,Italy,Paris,"Defective item, had to return."
+289a,12-07-2023,,,False,Spain,Los Angeles,"Defective item, had to return."
+290,,Home,244,,Spain,London,"Arrived late, but good quality."
+291a,06-04-2023,Clothing,89$,False,Mexico,,
+,,Electronics,N/A,False,Italy,Berlin,"Meh, it's okay."
+293,2023-10-01,Home,,Yes,Spain,,"Arrived late, but good quality."
+294,2023/12/05,,,No,UK,London,Excellent product!
+295a,23-07-2023,Clothing,-164,No,UK,Paris,Amazing!
+,05-08-2023,Home,383,Yes,Spain,Los Angeles,Amazing!
+,30-01-2023,Clothing,469,No,France,Rome,"Meh, it's okay."
+,11-10-2023,Clothing,417$,False,Canada,Toronto,
+,17-10-2023,Home,53$,Unknown,Spain,Rome,Totally worth it!
+300a,2023/04/18,Electronics,122$,Yes,USA,Toronto,Totally worth it!
+,2023/01/26,,121$,,France,,
+302,2023-12-29,Clothing,105$,False,Italy,Toronto,"Arrived late, but good quality."
+303a,2023-06-24,,,Yes,Canada,London,"Defective item, had to return."
+304a,2023-02-04,Electronics,$192,,Canada,London,Worst purchase ever.
+305,08-08-2023,Home,,,France,Paris,Amazing!
+306a,2023/06/30,,,Yes,Italy,Los Angeles,"Arrived late, but good quality."
+307a,2023/02/13,Electronics,,False,USA,Rome,Would buy again!
+308a,,Electronics,290$,False,Canada,Paris,
+309,23-07-2023,Clothing,,Unknown,Canada,Toronto,Excellent product!
+310a,24-03-2023,Home,471,Unknown,USA,New York,Excellent product!
+,22-05-2023,,222$,True,Mexico,Rome,"Meh, it's okay."
+312,2023-04-06,Home,N/A,,UK,London,Totally worth it!
+313,2023-03-08,Clothing,273,Unknown,Canada,London,Excellent product!
+,2023-01-10,Clothing,20,False,France,Madrid,Customer service was awful.
+315,2023-01-03,Electronics,,False,USA,New York,Totally worth it!
+,2023-06-17,Home,200$,False,UK,Paris,"Low quality, bad experience."
+,2023-09-01,,$432,False,UK,Toronto,Worst purchase ever.
+,08-05-2023,Home,N/A,True,Canada,New York,Would buy again!
+319a,05-05-2023,,482,False,USA,,
+,2023-04-25,Home,444$,False,USA,Toronto,
+321a,2023/03/02,Home,N/A,No,Canada,Los Angeles,
+,2023/04/29,,$40,,UK,New York,"Meh, it's okay."
+323a,27-08-2023,Electronics,$242,Yes,Canada,Paris,"Defective item, had to return."
+,14-05-2023,Home,220$,False,Spain,London,"Defective item, had to return."
+325a,2023-12-19,Electronics,,No,UK,New York,
+,2023-11-29,Home,$449,Unknown,Mexico,Toronto,
+327a,21-02-2023,Home,$232,False,Mexico,Berlin,Excellent product!
+328a,16-02-2023,Clothing,-107,,UK,,"Low quality, bad experience."
+329,2023/10/04,,N/A,Unknown,Canada,Paris,"Arrived late, but good quality."
+330,2023/02/27,Clothing,-72,,Germany,New York,
+331a,2023/10/24,,$262,True,Germany,Toronto,Would buy again!
+332a,2023-06-10,,$339,True,USA,Berlin,"Defective item, had to return."
+333,2023/05/18,Electronics,$298,Yes,Italy,Madrid,"Low quality, bad experience."
+334a,2023/02/26,Clothing,306$,False,France,,"Defective item, had to return."
+335a,2023/05/05,Electronics,417$,Yes,Mexico,Berlin,"Arrived late, but good quality."
+336a,2023/01/27,Home,332,False,Spain,Los Angeles,Amazing!
+337,2023-08-15,Electronics,,Yes,Spain,Berlin,
+338a,2023-10-14,,-85,Unknown,France,Paris,"Defective item, had to return."
+339,2023-02-23,Home,171$,False,Canada,Toronto,
+340a,2023/11/01,Clothing,120$,No,Canada,Berlin,Excellent product!
+,,Electronics,395$,True,Italy,Berlin,Worst purchase ever.
+,,,N/A,False,Germany,Berlin,Would buy again!
+,28-11-2023,Clothing,N/A,No,Spain,,
+344a,2023/05/22,Home,,False,France,New York,"Low quality, bad experience."
+345a,2023/02/12,Clothing,,True,Spain,Berlin,Would buy again!
+346a,22-05-2023,Home,477$,,Italy,Paris,
+,2023-09-18,Clothing,18$,,USA,London,"Defective item, had to return."
+348,2023/02/02,,272$,True,USA,New York,Worst purchase ever.
+349a,2023-08-26,Electronics,-1,Unknown,Germany,Los Angeles,Worst purchase ever.
+350,,Electronics,$478,False,Mexico,Los Angeles,"Low quality, bad experience."
+351a,01-05-2023,Clothing,$400,Unknown,Italy,Berlin,"Low quality, bad experience."
+352,2023-02-04,Clothing,$474,False,Canada,Paris,Would buy again!
+353,28-08-2023,,463,,Italy,London,Worst purchase ever.
+354a,2023/12/14,Electronics,285,,Spain,Rome,"Arrived late, but good quality."
+355,2023-02-03,Clothing,115,False,USA,,Would buy again!
+356,2023/09/17,Home,$185,Yes,UK,London,Customer service was awful.
+357,,,-31,False,France,London,Customer service was awful.
+,2023/03/15,,$139,,Mexico,Paris,Excellent product!
+359,2023/04/14,,281$,Unknown,USA,Toronto,Would buy again!
+360,2023-05-20,Electronics,122,Unknown,Mexico,London,Excellent product!
+361a,02-07-2023,Home,$260,No,Germany,Rome,Amazing!
+,2023-08-23,Electronics,$14,False,UK,Paris,Excellent product!
+,13-07-2023,,N/A,False,France,London,Customer service was awful.
+364a,28-02-2023,Clothing,$139,False,France,,
+365a,2023/03/30,Home,-159,False,USA,Paris,Excellent product!
+366,2023/07/04,Clothing,182$,Yes,USA,Toronto,Excellent product!
+367,,Clothing,$204,Yes,France,Berlin,Customer service was awful.
+368,2023-07-10,,159$,Yes,Germany,Madrid,Excellent product!
+,,Electronics,95$,False,USA,Berlin,Would buy again!
+370a,,Clothing,$58,False,Italy,Paris,"Arrived late, but good quality."
+371a,2023/09/22,Home,N/A,No,USA,,Amazing!
+372a,2023-09-17,Home,,Yes,Germany,Toronto,Worst purchase ever.
+373a,2023-10-10,Home,441$,True,France,Rome,
+,2023-09-09,Clothing,42$,False,Italy,Madrid,Amazing!
+375a,,Home,$453,Unknown,UK,Los Angeles,
+,27-04-2023,Home,-197,True,Italy,New York,"Defective item, had to return."
+377a,01-02-2023,Electronics,$83,False,Italy,Madrid,Excellent product!
+378,19-11-2023,Electronics,398$,False,Germany,Toronto,Totally worth it!
+379a,2023-10-14,Home,373,True,Germany,Madrid,Would buy again!
+,16-09-2023,Electronics,,False,UK,Berlin,"Arrived late, but good quality."
+381a,2023-12-11,Clothing,$76,False,Canada,London,"Low quality, bad experience."
+382,21-03-2023,,185,False,Mexico,,
+,07-11-2023,Clothing,493,Unknown,Mexico,Madrid,"Defective item, had to return."
+384a,2023/06/15,Home,,True,USA,Los Angeles,
+385,,Electronics,N/A,False,Italy,Berlin,
+386a,27-12-2023,,159$,False,France,Los Angeles,"Meh, it's okay."
+387a,2023/01/02,Home,N/A,Unknown,USA,Paris,Excellent product!
+,2023/05/15,Home,N/A,False,Canada,Toronto,Would buy again!
+,2023/11/24,,491,False,France,London,
+390,,Electronics,$352,Yes,Canada,New York,"Arrived late, but good quality."
+391,2023/06/03,Clothing,,False,Germany,Berlin,
+392,2023-09-14,,,False,Spain,Berlin,"Meh, it's okay."
+,2023-07-24,Home,-159,Unknown,Mexico,Paris,Amazing!
+394a,2023/04/26,Electronics,,No,France,Toronto,"Low quality, bad experience."
+395,,Electronics,,Unknown,USA,Madrid,Totally worth it!
+396a,27-06-2023,Electronics,N/A,False,Canada,Berlin,
+397a,2023/12/03,Clothing,N/A,False,France,Paris,
+,2023-12-26,Electronics,$213,No,UK,Berlin,
+,2023/01/13,Electronics,472$,False,Germany,Paris,Totally worth it!
+400a,2023-09-30,,$348,True,Canada,Berlin,Would buy again!
+401a,2023/07/30,,N/A,True,UK,Madrid,Would buy again!
+402,2023-09-20,Clothing,,False,Germany,Berlin,Amazing!
+403a,2023-10-06,,$479,No,Mexico,Rome,"Defective item, had to return."
+404a,2023-02-09,,-60,No,Italy,London,
+,2023-02-21,,,True,Canada,Berlin,"Low quality, bad experience."
+406a,2023/10/11,Home,$399,Yes,Canada,London,Amazing!
+407a,21-08-2023,Clothing,,Unknown,USA,Los Angeles,Would buy again!
+408a,2023-08-29,,46,No,Germany,London,"Low quality, bad experience."
+409,02-04-2023,Electronics,,No,Italy,Rome,Totally worth it!
+,2023-03-12,Clothing,,No,Germany,,"Defective item, had to return."
+,2023/06/22,Home,N/A,False,UK,Toronto,Excellent product!
+412a,01-09-2023,Clothing,N/A,Unknown,Germany,Toronto,"Defective item, had to return."
+413a,05-06-2023,Clothing,,Unknown,Canada,,"Low quality, bad experience."
+414,2023-07-29,,429$,False,Mexico,New York,
+415a,2023-12-12,Home,N/A,True,Germany,London,"Meh, it's okay."
+416,2023/05/11,Clothing,,True,Germany,Toronto,Customer service was awful.
+417,2023/07/21,Home,87$,Unknown,USA,Berlin,
+,25-09-2023,Electronics,$90,No,Canada,Toronto,"Defective item, had to return."
+419a,2023-05-05,Home,33$,No,UK,Paris,Totally worth it!
+420,2023-08-06,Electronics,79$,Yes,UK,Rome,"Arrived late, but good quality."
+,17-06-2023,Electronics,$284,False,Italy,Berlin,Customer service was awful.
+422a,30-03-2023,Home,$287,False,Spain,Paris,Totally worth it!
+423,15-02-2023,Clothing,388,Unknown,Mexico,Paris,"Low quality, bad experience."
+424a,2023-09-19,,$309,False,Spain,New York,Would buy again!
+425a,2023/04/09,Electronics,N/A,True,Canada,Toronto,"Meh, it's okay."
+,17-08-2023,Electronics,226,No,Germany,Toronto,Totally worth it!
+,2023-07-19,Clothing,N/A,False,France,Paris,"Arrived late, but good quality."
+428a,,Electronics,440,No,Germany,Berlin,Excellent product!
+429a,2023/01/10,Home,,False,Italy,New York,"Arrived late, but good quality."
+430a,16-10-2023,,,Unknown,Italy,Los Angeles,"Arrived late, but good quality."
+,22-05-2023,Electronics,-42,Yes,UK,Berlin,Customer service was awful.
+,2023-05-06,Electronics,$376,No,Germany,Toronto,"Arrived late, but good quality."
+433,2023-04-27,,$279,Unknown,Germany,Berlin,"Defective item, had to return."
+,2023-05-28,Home,$494,False,Italy,Rome,Customer service was awful.
+435a,2023-10-12,,278$,Yes,Italy,Toronto,"Low quality, bad experience."
+436,22-01-2023,Electronics,N/A,True,France,Paris,Customer service was awful.
+437a,12-02-2023,Electronics,$399,False,Mexico,London,Customer service was awful.
+,31-01-2023,,$113,False,France,,Amazing!
+439,2023-03-18,Home,$394,Yes,Germany,Paris,Amazing!
+440a,23-12-2023,Clothing,$73,True,Canada,Berlin,Excellent product!
+441a,,Clothing,-197,No,Canada,Toronto,
+,2023/12/28,Home,$28,False,USA,Berlin,
+443,2023-07-12,Electronics,182$,False,Italy,,Would buy again!
+,,Home,,True,USA,Madrid,Worst purchase ever.
+445,2023-09-26,Electronics,$373,True,USA,New York,
+446a,,,,No,France,Madrid,
+447,2023/05/17,Electronics,$104,True,Canada,Los Angeles,"Low quality, bad experience."
+448,18-03-2023,Home,152$,Unknown,Canada,Berlin,
+449,2023/02/17,Electronics,,Unknown,Spain,Madrid,Totally worth it!
+450a,2023-06-21,Electronics,,Yes,Italy,,Would buy again!
+,23-08-2023,Home,N/A,No,Spain,Madrid,Excellent product!
+,2023-05-08,Home,,False,France,Madrid,"Low quality, bad experience."
+453,12-05-2023,Electronics,N/A,No,Germany,Rome,"Low quality, bad experience."
+454a,,Home,$133,False,Canada,Berlin,Excellent product!
+455a,2023/12/19,Clothing,N/A,No,France,Los Angeles,Would buy again!
+456a,2023-04-08,Home,$420,Unknown,UK,Los Angeles,"Low quality, bad experience."
+,22-01-2023,Electronics,319$,No,Canada,London,Amazing!
+,,Clothing,N/A,True,Canada,Los Angeles,Totally worth it!
+,2023/07/13,,383$,False,Spain,,"Defective item, had to return."
+460a,23-06-2023,Clothing,240$,False,Mexico,Madrid,Customer service was awful.
+461a,07-01-2023,Home,,False,UK,Los Angeles,Would buy again!
+,2023-03-08,Electronics,329,False,USA,Berlin,Amazing!
+463,09-05-2023,Home,-81,True,UK,,"Meh, it's okay."
+464,2023/04/13,Clothing,N/A,False,Canada,Rome,"Low quality, bad experience."
+465a,2023-03-10,Clothing,N/A,No,Germany,Rome,Would buy again!
+466,2023-09-01,Electronics,55$,True,Mexico,Madrid,"Meh, it's okay."
+,,Electronics,,Yes,USA,Madrid,Amazing!
+468a,26-09-2023,Electronics,$127,,Spain,London,"Meh, it's okay."
+469,2023-04-10,Clothing,19$,No,Spain,Toronto,
+,21-04-2023,Home,N/A,No,USA,,"Defective item, had to return."
+471,2023-03-16,Electronics,,,USA,Berlin,Would buy again!
+472,2023-06-10,Home,$66,,UK,,Excellent product!
+473a,28-09-2023,Clothing,425,False,Mexico,Berlin,"Arrived late, but good quality."
+474,2023/08/06,Home,$182,True,Italy,New York,"Meh, it's okay."
+475,2023-03-25,,391,Unknown,UK,Berlin,Customer service was awful.
+,2023-01-05,Clothing,377,True,Italy,Berlin,Would buy again!
+477,2023-10-08,Electronics,$304,True,UK,New York,Amazing!
+478a,08-04-2023,Electronics,324$,No,Mexico,Toronto,Would buy again!
+479,2023-11-01,,,Yes,UK,New York,
+480a,28-06-2023,,N/A,,Italy,Toronto,Would buy again!
+481a,2023/07/19,,$244,,UK,Toronto,Customer service was awful.
+,2023/06/24,Electronics,,True,Mexico,Madrid,Excellent product!
+483a,09-03-2023,Clothing,55$,,USA,,Excellent product!
+,2023/04/30,,$276,Yes,Mexico,Los Angeles,
+,2023/06/05,Electronics,$160,True,France,London,Excellent product!
+,2023-07-11,Electronics,303,Unknown,France,Toronto,Would buy again!
+,,Electronics,320$,False,Italy,Madrid,
+488,2023/03/23,Home,360,Yes,Canada,,Amazing!
+,2023-01-24,,$305,False,Canada,,
+490,2023/03/29,Clothing,$187,Unknown,USA,,Excellent product!
+491,2023/07/04,Clothing,N/A,Unknown,Spain,Toronto,Customer service was awful.
+492a,2023/04/09,Clothing,405$,No,USA,Madrid,"Low quality, bad experience."
+493a,23-05-2023,Electronics,-191,False,Italy,Berlin,
+494a,26-01-2023,,$62,,UK,,Amazing!
+495a,10-12-2023,Clothing,$104,Unknown,Italy,New York,Customer service was awful.
+496,2023-11-14,,,False,Mexico,Madrid,"Low quality, bad experience."
+497a,02-04-2023,,,Yes,France,Berlin,Would buy again!
+,2023-02-26,Home,236,No,USA,London,Customer service was awful.
+499a,31-05-2023,Clothing,-143,Unknown,Mexico,Los Angeles,
+500a,2023-08-05,Home,,False,Mexico,Madrid,"Defective item, had to return."
+501,2023/02/06,,-188,No,Canada,Toronto,
+502,06-04-2023,Clothing,243,Yes,Mexico,Berlin,Would buy again!
+503,2023/07/08,,N/A,False,Mexico,Rome,"Low quality, bad experience."
+,2023-01-30,Electronics,445$,,UK,Toronto,Customer service was awful.
+505,2023/03/16,Electronics,,Unknown,Spain,,Amazing!
+,2023-04-28,Clothing,226$,Unknown,Italy,Paris,Customer service was awful.
+507a,2023-09-26,Electronics,173$,,USA,Toronto,Customer service was awful.
+508,2023/08/30,,N/A,Unknown,Spain,London,"Low quality, bad experience."
+,30-03-2023,Home,N/A,Yes,Mexico,London,
+,2023/02/12,Electronics,$73,Yes,USA,Berlin,Worst purchase ever.
+511,2023-05-02,,N/A,,Germany,New York,"Meh, it's okay."
+,03-04-2023,Electronics,$181,No,Spain,Rome,Excellent product!
+,17-04-2023,,377,False,UK,,"Arrived late, but good quality."
+514a,2023/07/11,,N/A,No,France,Los Angeles,Amazing!
+515a,,Home,$465,True,France,New York,Excellent product!
+,2023/09/22,Electronics,-16,No,France,Rome,"Defective item, had to return."
+,2023/06/18,Clothing,,Unknown,Mexico,New York,Amazing!
+518,22-07-2023,,$370,,Mexico,Berlin,Worst purchase ever.
+519a,2023/12/01,Clothing,N/A,No,USA,London,Would buy again!
+520a,2023/10/17,,,,Mexico,Madrid,
+521,02-03-2023,Clothing,N/A,Yes,Canada,Toronto,
+522,2023/01/31,Electronics,,False,Germany,Toronto,Customer service was awful.
+,2023-02-12,,N/A,True,UK,London,Totally worth it!
+,2023/02/28,Electronics,-193,No,USA,,Excellent product!
+525a,,Electronics,,True,Italy,Berlin,
+,2023-12-11,,,False,France,Los Angeles,"Meh, it's okay."
+527,20-01-2023,Home,,,Italy,Los Angeles,Totally worth it!
+,,Home,N/A,True,USA,Berlin,
+529,2023/03/28,Home,,,Italy,Toronto,Totally worth it!
+530a,2023-07-20,Home,,True,France,,"Meh, it's okay."
+,05-11-2023,Clothing,188,True,Italy,New York,Customer service was awful.
+532,2023-01-20,Home,,Yes,Germany,Paris,
+,2023/06/04,Home,$365,No,Italy,,Customer service was awful.
+534,02-11-2023,Home,329$,Unknown,Spain,Madrid,Excellent product!
+535a,06-05-2023,,-90,False,Canada,Berlin,
+536,25-10-2023,Electronics,351$,False,UK,Madrid,"Low quality, bad experience."
+537a,2023-06-24,,143$,False,UK,London,"Arrived late, but good quality."
+,23-06-2023,Home,,No,Canada,London,Excellent product!
+,30-03-2023,Clothing,,Unknown,Italy,Paris,Amazing!
+,17-01-2023,Clothing,38,No,Italy,London,
+,2023-03-31,Electronics,,No,UK,Berlin,Amazing!
+542,2023-06-15,Home,227,Yes,Canada,Paris,Totally worth it!
+543a,2023-08-12,Electronics,374$,False,Canada,Toronto,"Defective item, had to return."
+544a,2023/10/24,Electronics,282,False,USA,Toronto,
+545a,,Electronics,N/A,Yes,UK,New York,Excellent product!
+546,06-06-2023,Home,N/A,False,Germany,Paris,"Low quality, bad experience."
+547,20-12-2023,Clothing,$298,Unknown,Spain,London,Excellent product!
+548a,2023-06-07,Home,,Unknown,France,London,
+549,12-08-2023,Electronics,N/A,,Mexico,Berlin,Customer service was awful.
+550,,Clothing,$186,True,Mexico,Madrid,
+,2023-01-24,Clothing,N/A,,France,Los Angeles,"Low quality, bad experience."
+,2023-05-17,Electronics,,,Mexico,Rome,"Arrived late, but good quality."
+,2023-11-06,Clothing,N/A,Yes,UK,Rome,Excellent product!
+,2023/06/27,Home,,Yes,Mexico,Berlin,"Defective item, had to return."
+,2023/07/15,Clothing,$105,Unknown,Mexico,New York,Worst purchase ever.
+,,Clothing,307$,Unknown,Mexico,Berlin,Customer service was awful.
+,2023-10-03,Clothing,N/A,No,Canada,Rome,"Low quality, bad experience."
+558,2023/03/30,Clothing,$334,False,Spain,New York,Would buy again!
+559a,2023-11-30,Home,N/A,False,USA,New York,Excellent product!
+,2023/09/05,Home,,,Spain,Berlin,"Defective item, had to return."
+,2023/02/09,Electronics,-132,,Mexico,Los Angeles,Would buy again!
+562a,2023-07-12,Home,,Unknown,Italy,,Amazing!
+563a,2023/06/10,Home,N/A,Yes,Canada,New York,Would buy again!
+,2023/02/16,Electronics,190$,Yes,Germany,Paris,"Arrived late, but good quality."
+565a,30-06-2023,Clothing,,True,Mexico,Los Angeles,Totally worth it!
+566,09-03-2023,Clothing,-157,False,France,London,"Arrived late, but good quality."
+567,2023-06-14,Clothing,N/A,False,Italy,Los Angeles,Customer service was awful.
+568,2023-02-24,Electronics,,No,Spain,Rome,
+569a,,Electronics,,False,UK,Paris,Totally worth it!
+570a,2023/05/10,,162,True,Germany,Toronto,
+,07-12-2023,Electronics,495,No,Canada,Los Angeles,"Meh, it's okay."
+,2023-06-07,Home,148$,True,Mexico,Los Angeles,
+,2023-10-06,Home,N/A,False,Canada,Los Angeles,"Low quality, bad experience."
+574a,30-10-2023,Electronics,,Unknown,USA,,Amazing!
+575,2023/05/13,,,False,USA,Paris,Amazing!
+,2023/05/28,Clothing,N/A,False,France,Los Angeles,Totally worth it!
+577a,2023/04/10,Clothing,,No,Mexico,New York,"Defective item, had to return."
+,2023/03/09,,,True,UK,Paris,
+,2023-04-01,Electronics,$453,Unknown,USA,Paris,
+580a,08-04-2023,Home,482$,False,UK,Rome,"Meh, it's okay."
+,27-03-2023,,,No,USA,Paris,Totally worth it!
+,,Clothing,N/A,Yes,Italy,Los Angeles,"Meh, it's okay."
+583,2023/02/11,Electronics,58,False,Mexico,,
+584a,2023/02/02,,,,Spain,Paris,"Defective item, had to return."
+,2023/02/07,,167,,UK,London,Would buy again!
+586a,2023/03/15,Clothing,302$,True,France,Toronto,Worst purchase ever.
+,2023-07-29,Home,,Yes,Germany,Berlin,Amazing!
+,2023/06/18,,-193,,Italy,Toronto,
+589a,30-04-2023,Electronics,$13,Unknown,Mexico,Madrid,Customer service was awful.
+590,2023-12-18,Home,$366,,Germany,Paris,"Arrived late, but good quality."
+591,30-05-2023,,$88,Yes,UK,New York,"Low quality, bad experience."
+,2023-04-02,,284,False,Germany,New York,
+,29-08-2023,Home,166,True,Canada,Toronto,Customer service was awful.
+594a,28-11-2023,Electronics,$38,False,UK,Berlin,"Arrived late, but good quality."
+595a,2023-07-19,Clothing,$326,No,Canada,Paris,"Meh, it's okay."
+596,2023/03/01,Electronics,$198,False,Italy,Rome,"Low quality, bad experience."
+,20-08-2023,Home,N/A,False,Canada,Toronto,Would buy again!
+598,2023-02-19,Home,N/A,False,UK,Toronto,Worst purchase ever.
+599,,,$28,False,France,Paris,Excellent product!
+100,2023-12-11,Home,$481,True,Germany,New York,"Arrived late, but good quality."
+101,2023/05/29,,N/A,False,UK,Berlin,Totally worth it!
+,2023/08/03,Electronics,-129,False,Spain,London,Excellent product!
+,2023-04-16,Home,43$,No,Italy,Berlin,Excellent product!
+104,2023-02-18,Electronics,N/A,True,USA,,
+105a,2023/07/24,Clothing,N/A,True,Italy,Toronto,"Low quality, bad experience."
+,11-03-2023,,488$,,Italy,,Amazing!
+107a,2023/12/08,Clothing,106,False,Mexico,Los Angeles,Totally worth it!
+,30-12-2023,Electronics,,Unknown,Spain,New York,Excellent product!
+,2023/05/11,Electronics,N/A,True,Canada,Toronto,"Low quality, bad experience."
+110,2023/07/08,Clothing,83,True,France,Paris,Would buy again!
+,13-11-2023,,479$,False,France,London,"Low quality, bad experience."
+112,08-03-2023,Clothing,$33,Yes,Canada,Toronto,"Low quality, bad experience."
+113a,10-05-2023,Electronics,174,True,Italy,Toronto,Excellent product!
+114a,2023/10/22,Home,N/A,True,Spain,,
+115a,2023/03/04,Electronics,,,Mexico,Berlin,
+,2023-11-24,Electronics,N/A,Yes,Germany,Madrid,
+117,12-10-2023,,,Yes,Canada,Berlin,
+118a,17-08-2023,Home,,No,Mexico,Madrid,
+119a,08-01-2023,,401$,No,Italy,Rome,
+,,,247,,Germany,Los Angeles,"Low quality, bad experience."
+121,15-12-2023,Electronics,$220,False,France,Berlin,Amazing!
+,08-03-2023,,,,USA,London,Excellent product!
+123a,14-01-2023,Clothing,500$,False,Spain,Los Angeles,
+124a,2023/12/03,Clothing,$18,Yes,Germany,Berlin,"Meh, it's okay."
+,15-12-2023,,N/A,False,Italy,New York,Excellent product!
+,2023/09/08,,468$,Unknown,Italy,London,Would buy again!
+127a,21-04-2023,Home,$471,Yes,Canada,,Amazing!
+128,2023/03/08,Clothing,N/A,No,USA,London,Worst purchase ever.
+129,2023-01-12,Electronics,182,False,Mexico,Toronto,"Arrived late, but good quality."
+130,,Electronics,477$,False,USA,Toronto,
+131a,2023-02-28,Electronics,-145,Unknown,UK,,Excellent product!
+,2023/07/12,,,False,Canada,,Would buy again!
+133,,,477,True,USA,Paris,Worst purchase ever.
+134,01-09-2023,Electronics,,,UK,Madrid,
+135a,16-02-2023,,-111,False,Canada,Madrid,Excellent product!
+136a,2023-06-05,Clothing,$301,False,Italy,New York,"Meh, it's okay."
+137,2023-05-08,Clothing,314,Unknown,France,Paris,Amazing!
+138a,2023-02-09,Home,426,False,Canada,,"Low quality, bad experience."
+139,2023-03-31,Electronics,N/A,Yes,Mexico,Rome,
+140a,16-12-2023,Clothing,-124,False,Canada,Berlin,"Low quality, bad experience."
+,16-02-2023,Home,430$,True,Mexico,Paris,Totally worth it!
+142,15-03-2023,Electronics,,Yes,Germany,New York,
+143a,2023/11/19,,$337,True,Germany,Madrid,Would buy again!
+,08-06-2023,Home,$285,True,Italy,Los Angeles,Totally worth it!
+145,2023/09/03,Home,,,France,,"Meh, it's okay."
+,05-09-2023,,N/A,False,Germany,London,"Arrived late, but good quality."
+,2023/03/02,Clothing,N/A,Yes,Italy,London,Totally worth it!
+148a,2023-07-27,,-165,Unknown,Italy,Berlin,Totally worth it!
+149a,2023-06-23,Home,475,,Canada,London,"Meh, it's okay."
+150a,2023/08/30,,N/A,False,Italy,Los Angeles,Would buy again!
+151a,2023-03-31,,$221,False,Germany,Toronto,Amazing!
+,2023/02/10,Clothing,132,Yes,Mexico,New York,
+,2023/01/04,Home,$236,True,Mexico,Toronto,
+154a,2023-08-09,,-25,Yes,UK,Rome,"Arrived late, but good quality."
+,05-12-2023,,256$,False,Mexico,Toronto,
+156a,2023-06-10,Clothing,N/A,Yes,USA,New York,Worst purchase ever.
+157,2023-11-23,Home,N/A,No,France,Madrid,Would buy again!
+158a,13-11-2023,,164$,,France,Berlin,Customer service was awful.
+,2023-10-24,Electronics,452,True,Canada,Madrid,
+160a,2023-06-02,Home,-58,No,France,Rome,Amazing!
+161a,,Home,,Unknown,France,New York,Customer service was awful.
+162a,2023/03/01,,,Unknown,Spain,Berlin,"Arrived late, but good quality."
+,2023-06-20,,192$,False,Canada,New York,
+164a,2023-03-16,Clothing,N/A,False,Italy,Toronto,Amazing!
+165a,,Electronics,$29,False,Italy,New York,Amazing!
+,2023/11/09,,$163,True,Canada,Rome,Excellent product!
+167,2023/12/29,Home,N/A,Unknown,Spain,Berlin,Would buy again!
+168,2023/02/07,,236$,,USA,London,Amazing!
+169,2023-09-29,,,Yes,Germany,Paris,"Defective item, had to return."
+170,16-03-2023,Electronics,278$,True,France,Madrid,"Meh, it's okay."
+,04-02-2023,Home,50$,Yes,Germany,New York,"Defective item, had to return."
+,2023-04-12,Clothing,22,False,Germany,Toronto,"Arrived late, but good quality."
+173,2023-01-04,Clothing,17,,Canada,Rome,"Defective item, had to return."
+174,2023/09/14,Electronics,$313,,Italy,Los Angeles,"Arrived late, but good quality."
+175a,2023-01-12,Electronics,,Yes,Italy,New York,"Defective item, had to return."
+176a,10-07-2023,,$329,Yes,France,Berlin,Would buy again!
+,02-11-2023,Electronics,409,,Italy,Los Angeles,"Low quality, bad experience."
+178a,20-02-2023,Home,271$,Yes,Italy,London,Customer service was awful.
+,25-08-2023,Clothing,74,Unknown,USA,London,
+180,21-08-2023,,,False,USA,Los Angeles,"Arrived late, but good quality."
+,14-06-2023,Clothing,N/A,No,Canada,Paris,Excellent product!
+182,10-05-2023,Home,$252,No,Germany,Toronto,"Arrived late, but good quality."
+,2023/03/31,Electronics,N/A,False,Canada,London,"Low quality, bad experience."
+184a,2023-01-28,Home,394$,No,Spain,Berlin,
+185,2023/02/22,Clothing,N/A,Unknown,UK,London,Amazing!
+186,2023/11/19,Electronics,-160,,Germany,Toronto,
+187a,2023-03-30,Clothing,$373,True,Germany,New York,
+188a,2023/09/25,Clothing,N/A,No,UK,New York,Excellent product!
+,2023/08/03,Home,416,No,Italy,Rome,Customer service was awful.
+,2023-12-31,Electronics,$332,No,France,Madrid,Worst purchase ever.
+,2023-02-01,Electronics,,Unknown,Canada,Rome,Customer service was awful.
+,2023-03-08,,-52,False,Italy,Los Angeles,
+193,18-01-2023,Electronics,N/A,,France,New York,"Defective item, had to return."
+,,Home,342$,False,France,Berlin,"Arrived late, but good quality."
+,2023/03/01,Electronics,,Unknown,Italy,Berlin,"Defective item, had to return."
+196a,08-05-2023,Clothing,,False,UK,Rome,Totally worth it!
+197a,2023-06-13,Electronics,$316,,Canada,Toronto,
+,2023-09-12,Clothing,N/A,No,Italy,Berlin,Totally worth it!
+199,05-06-2023,Clothing,,True,UK,Paris,Amazing!
+200a,2023/03/22,Home,N/A,Unknown,Germany,Toronto,"Defective item, had to return."
+,2023/09/27,Clothing,,,Canada,,
+202,16-03-2023,Clothing,$221,No,France,London,Excellent product!
+,,Electronics,$153,No,UK,Rome,"Defective item, had to return."
+,2023/10/21,Electronics,,Yes,USA,Toronto,Worst purchase ever.
+205,2023/01/08,Clothing,,Unknown,USA,New York,"Defective item, had to return."
+,2023/10/02,,,True,France,Rome,
+207a,13-04-2023,Home,,Yes,Italy,New York,"Low quality, bad experience."
+208,2023/01/29,Clothing,$138,True,USA,Los Angeles,Customer service was awful.
+209a,2023-07-19,Home,$368,True,UK,Berlin,Customer service was awful.
+,2023-01-05,,290,False,Germany,London,Would buy again!
+211,23-09-2023,Home,322$,True,Mexico,Toronto,Worst purchase ever.
+212a,2023-05-22,,190,False,France,London,Would buy again!
+,2023/10/10,Home,481,True,Italy,Toronto,"Low quality, bad experience."
+214,2023-06-03,,369$,True,Canada,,
+215a,2023/06/20,,226,No,Spain,Toronto,Customer service was awful.
+,01-09-2023,Clothing,324$,Unknown,France,Los Angeles,"Arrived late, but good quality."
+217a,2023-05-07,Electronics,N/A,No,UK,London,Would buy again!
+218a,11-09-2023,,-149,True,Canada,Paris,"Meh, it's okay."
+,26-02-2023,,N/A,False,Spain,Los Angeles,Worst purchase ever.
+220,2023-01-17,,$251,False,Italy,Paris,Would buy again!
+,2023/05/20,Home,-35,False,Spain,,
+,30-10-2023,Electronics,,False,Italy,,Amazing!
+,2023/10/12,,351,False,USA,New York,Customer service was awful.
+224a,2023-02-07,Electronics,N/A,Unknown,Canada,,"Meh, it's okay."
+225a,2023/10/25,,$393,,UK,,Worst purchase ever.
+,2023-11-20,Home,390$,Unknown,UK,Los Angeles,Amazing!
+227,2023-06-29,Clothing,N/A,Yes,USA,Paris,
+228a,2023/12/12,,83,No,Germany,Paris,Customer service was awful.
+229,22-08-2023,Home,,True,Germany,Los Angeles,
+230,,Home,358$,Yes,Germany,Madrid,
+231,2023/09/12,,$75,Yes,Canada,Berlin,"Low quality, bad experience."
+232,31-12-2023,Electronics,N/A,Yes,Germany,Los Angeles,Excellent product!
+233a,08-02-2023,Home,119$,False,USA,Toronto,Customer service was awful.
+234,2023-04-16,Clothing,$467,False,UK,Paris,Customer service was awful.
+235,2023/06/13,Home,$301,True,UK,,
+,2023/09/26,,,No,UK,Paris,Customer service was awful.
+237,2023-10-22,,N/A,False,UK,London,Amazing!
+,2023-08-10,Electronics,$108,False,UK,Berlin,Worst purchase ever.
+239,2023/01/04,Home,,True,France,,"Meh, it's okay."
+240,,Electronics,N/A,False,France,Madrid,"Defective item, had to return."
+241,2023/09/21,,261$,True,Italy,,Excellent product!
+,,Electronics,31,Yes,USA,London,Amazing!
+,,Electronics,$356,Yes,Spain,Berlin,"Defective item, had to return."
+,28-05-2023,Home,$148,No,Canada,Paris,"Low quality, bad experience."
+,2023-04-05,Clothing,$499,False,Mexico,Toronto,Worst purchase ever.
+246,2023/02/08,,,No,Germany,London,Excellent product!
+247a,02-11-2023,,221,Unknown,Mexico,Madrid,"Arrived late, but good quality."
+248,2023/09/23,Home,232$,Unknown,Germany,London,Customer service was awful.
+249a,2023/02/14,Home,60$,Yes,France,Madrid,Would buy again!
+,2023-02-13,Electronics,,False,Spain,Berlin,
+251a,2023/03/27,Home,N/A,,Italy,Paris,Excellent product!
+252a,2023-05-11,Clothing,273,True,Mexico,Berlin,
+253,,,15,No,UK,London,Amazing!
+254,2023-03-11,Electronics,$190,No,Germany,New York,Worst purchase ever.
+255,2023/06/07,Home,N/A,,USA,Toronto,Customer service was awful.
+256a,2023-03-11,Clothing,$445,True,Germany,Paris,"Low quality, bad experience."
+,2023-10-18,,103$,No,UK,Los Angeles,Would buy again!
+258,06-02-2023,,328,False,Spain,,Worst purchase ever.
+,19-01-2023,Clothing,N/A,No,UK,Berlin,
+260,2023-03-08,Electronics,$338,Yes,France,Madrid,Would buy again!
+261a,2023/04/06,Electronics,-62,,UK,Berlin,"Meh, it's okay."
+262,25-10-2023,Electronics,137,False,Italy,Los Angeles,"Low quality, bad experience."
+263,2023/11/11,,$211,No,Spain,Paris,Totally worth it!
+,2023-01-23,Clothing,N/A,No,Canada,Toronto,Would buy again!
+265,25-11-2023,Clothing,,Yes,Canada,Paris,
+,2023-06-20,Clothing,98,True,Italy,Berlin,Totally worth it!
+,2023/12/26,Clothing,,False,UK,,"Low quality, bad experience."
+,2023/02/26,,460$,False,France,Toronto,Excellent product!
+,17-11-2023,,$474,No,UK,Los Angeles,"Low quality, bad experience."
+270a,2023/05/30,Clothing,55,True,Germany,London,Excellent product!
+271a,2023/03/22,,$451,,UK,Madrid,Amazing!
+272,2023/02/15,Home,367$,Unknown,Mexico,Berlin,"Defective item, had to return."
+273,2023/10/16,Electronics,,False,Spain,Berlin,
+274,2023/01/25,Home,N/A,Yes,UK,Paris,"Arrived late, but good quality."
+,25-06-2023,Home,449$,Unknown,France,Madrid,Customer service was awful.
+276a,2023-03-23,Clothing,,False,Italy,Berlin,Totally worth it!
+277,2023-12-06,Home,119,Unknown,Canada,Rome,
+,20-09-2023,Home,217$,Unknown,USA,,Totally worth it!
+279,2023/10/21,Electronics,,False,UK,Paris,
+,,Clothing,N/A,No,Spain,Rome,"Arrived late, but good quality."
+281,27-01-2023,Clothing,348$,Yes,Mexico,,Would buy again!
+,2023-02-11,Home,N/A,True,UK,Rome,Totally worth it!
+283,2023/12/31,Clothing,N/A,No,Canada,,Totally worth it!
+,2023-10-02,Electronics,231$,Yes,UK,London,Would buy again!
+,2023-02-26,Clothing,$104,Yes,UK,Los Angeles,"Low quality, bad experience."
+286a,2023/11/06,,$135,False,Canada,,Amazing!
+287a,29-11-2023,Home,N/A,True,Canada,Toronto,
+288,09-12-2023,,-77,False,Canada,Toronto,
+289,2023/07/16,Electronics,-150,,UK,Madrid,Customer service was awful.
+290,2023/08/06,,401$,Yes,France,New York,"Meh, it's okay."
+291,08-09-2023,Home,423$,False,Spain,,Worst purchase ever.
+292a,2023/01/21,,$30,False,USA,Paris,Worst purchase ever.
+293,26-01-2023,Home,426,False,Spain,,"Low quality, bad experience."
+,30-08-2023,,,False,Canada,Madrid,Excellent product!
+,2023-11-06,,-86,No,France,,Excellent product!
+,2023/01/02,,92$,Yes,Canada,Rome,"Arrived late, but good quality."
+,2023/06/13,Electronics,,False,Italy,Rome,Totally worth it!
+,30-05-2023,Electronics,289,No,Canada,Los Angeles,Excellent product!
+,2023-12-30,Electronics,316,True,Germany,,"Arrived late, but good quality."
+300,2023/03/16,Clothing,,No,Canada,New York,Totally worth it!
+301a,07-06-2023,Electronics,446$,No,Spain,Rome,Would buy again!
+,2023/08/21,,$91,Unknown,USA,Toronto,"Arrived late, but good quality."
+,23-01-2023,,,False,Canada,Toronto,Worst purchase ever.
+304,2023-08-28,Electronics,460,False,Canada,Paris,Worst purchase ever.
+305,2023/08/22,,83$,Unknown,Italy,Madrid,"Arrived late, but good quality."
+306a,2023/11/02,Home,$224,False,Germany,New York,Excellent product!
+307,2023/01/01,Clothing,N/A,Unknown,Canada,New York,Totally worth it!
+308a,2023/11/20,Electronics,N/A,No,USA,Berlin,Customer service was awful.
+,15-02-2023,Electronics,423$,Unknown,USA,Toronto,"Defective item, had to return."
+310a,2023/04/21,Clothing,467$,,Italy,Toronto,
+311,2023-09-11,Home,$443,True,Germany,,
+312a,2023/11/23,Home,$429,Yes,Germany,Toronto,"Arrived late, but good quality."
+313,2023-12-12,Clothing,N/A,,USA,,Customer service was awful.
+314a,06-10-2023,,N/A,False,UK,Berlin,
+,,,$167,False,France,Rome,"Defective item, had to return."
+,28-07-2023,,,,Spain,,Worst purchase ever.
+317a,2023-08-27,Clothing,223$,False,Canada,Berlin,
+318a,2023-01-02,Electronics,,True,Spain,Rome,Amazing!
+319a,2023-05-27,Electronics,N/A,True,Mexico,Paris,"Low quality, bad experience."
+320a,2023-07-03,Home,N/A,Yes,Germany,Madrid,"Low quality, bad experience."
+321,2023/02/04,Clothing,$159,False,France,Berlin,Customer service was awful.
+322a,2023-08-12,,20$,,Canada,Toronto,Totally worth it!
+323a,2023/01/10,Home,224,True,Mexico,New York,Would buy again!
+324,21-10-2023,Electronics,414,True,UK,Madrid,Amazing!
+325a,2023/05/20,Electronics,-151,Unknown,Canada,Paris,Would buy again!
+326a,2023/12/23,Home,,False,Mexico,Los Angeles,
+,07-11-2023,Electronics,$472,False,France,Paris,Excellent product!
+,2023/03/23,Clothing,164,Unknown,Italy,New York,"Defective item, had to return."
+329a,2023-03-03,,N/A,No,UK,Paris,
+,2023/12/20,Clothing,N/A,No,UK,Toronto,Would buy again!
+331a,27-11-2023,Electronics,N/A,Unknown,Spain,New York,"Defective item, had to return."
+,25-03-2023,Clothing,N/A,Yes,USA,London,"Low quality, bad experience."
+333,2023/03/07,Home,145,No,France,Rome,Would buy again!
+334a,2023/12/21,Electronics,,True,USA,Madrid,"Low quality, bad experience."
+335a,09-02-2023,Clothing,242$,No,France,Paris,"Low quality, bad experience."
+,2023-05-26,Clothing,409$,No,Spain,Madrid,
+,05-06-2023,Home,145,No,Mexico,Rome,Amazing!
+338a,19-03-2023,Clothing,$356,,Germany,Rome,"Defective item, had to return."
+339,2023-12-29,Home,,False,Canada,Paris,Amazing!
+,29-12-2023,Clothing,N/A,No,Canada,Toronto,"Low quality, bad experience."
+341,24-07-2023,Home,N/A,True,UK,London,Totally worth it!
+342a,2023-11-24,Home,$240,No,USA,London,
+343a,2023-10-18,Electronics,268$,Unknown,UK,Rome,"Arrived late, but good quality."
+344a,2023/07/21,Home,N/A,False,Mexico,Los Angeles,Worst purchase ever.
+345,2023-07-21,Clothing,,,Canada,Toronto,"Meh, it's okay."
+346,2023/04/21,Clothing,$274,True,Canada,Paris,"Meh, it's okay."
+347a,2023-02-16,Electronics,N/A,False,Germany,Berlin,Worst purchase ever.
+348a,2023-09-16,,N/A,Unknown,UK,Rome,"Low quality, bad experience."
+349,2023-10-02,Home,269$,No,Mexico,London,
+350a,12-10-2023,Electronics,$288,Unknown,Mexico,Berlin,"Arrived late, but good quality."
+351a,,,276$,No,Germany,London,
+352a,21-11-2023,Home,,Yes,USA,New York,Worst purchase ever.
+353a,18-12-2023,Clothing,N/A,True,Mexico,Los Angeles,Worst purchase ever.
+354a,30-12-2023,Home,,False,USA,London,
+,16-10-2023,Home,30,True,Mexico,Los Angeles,Excellent product!
+356,,Clothing,182,Unknown,Mexico,Rome,Amazing!
+357,22-07-2023,Clothing,$138,False,France,London,Worst purchase ever.
+,15-01-2023,Home,-85,No,Italy,Berlin,Amazing!
+359,2023/10/14,,N/A,Yes,France,Toronto,Worst purchase ever.
+360a,2023/03/21,Clothing,$181,False,UK,Toronto,"Low quality, bad experience."
+,2023-11-28,Home,N/A,Yes,Canada,,"Defective item, had to return."
+362a,2023/07/25,Home,,False,USA,,Customer service was awful.
+363,2023/07/13,,$425,,France,,Worst purchase ever.
+364a,2023-10-28,Electronics,,False,Canada,Madrid,"Arrived late, but good quality."
+,,Home,$178,True,UK,,
+366,04-10-2023,,$43,True,Canada,Rome,
+367,2023-02-08,Home,N/A,,France,London,"Arrived late, but good quality."
+,2023-10-02,,$385,Yes,Germany,Paris,Excellent product!
+369,05-02-2023,Electronics,284,,Germany,,"Arrived late, but good quality."
+370,2023-05-09,Home,434$,False,UK,Los Angeles,Worst purchase ever.
+371a,24-05-2023,Clothing,343$,Yes,Canada,Paris,Customer service was awful.
+372,2023-12-13,Home,,No,Canada,Los Angeles,
+373,2023/01/26,Home,,Yes,USA,Berlin,"Meh, it's okay."
+374,12-01-2023,Home,286$,,Spain,Toronto,Customer service was awful.
+,2023-05-04,Home,N/A,False,Italy,London,"Meh, it's okay."
+376,2023-07-30,Electronics,$306,,Mexico,,"Low quality, bad experience."
+377a,2023-03-09,Home,$63,Yes,Italy,Toronto,Would buy again!
+,,Home,160,True,UK,New York,"Meh, it's okay."
+379,2023/10/11,Clothing,28$,False,USA,Los Angeles,"Meh, it's okay."
+380a,2023-09-28,Home,309$,No,UK,,Would buy again!
+,2023/09/10,Clothing,$18,Unknown,Italy,,"Arrived late, but good quality."
+382a,,Clothing,$42,No,Germany,Rome,Would buy again!
+383a,2023/07/14,,493$,Yes,Italy,Toronto,"Defective item, had to return."
+384a,2023-08-01,Electronics,,No,UK,Paris,Worst purchase ever.
+385,2023/09/29,Clothing,N/A,True,Canada,,Customer service was awful.
+,2023-12-12,Home,N/A,False,Canada,Madrid,Would buy again!
+387a,2023/10/05,Electronics,449,Yes,UK,London,Totally worth it!
+388,2023-01-14,,471$,Yes,Canada,London,Amazing!
+389,2023/02/20,Clothing,$66,False,Mexico,Berlin,Worst purchase ever.
+,18-10-2023,Clothing,$445,True,Spain,Rome,Worst purchase ever.
+391a,2023/10/12,,-60,No,Canada,Toronto,Worst purchase ever.
+,2023-12-24,Clothing,,Yes,France,Rome,Amazing!
+,28-05-2023,,460$,False,USA,Toronto,Would buy again!
+394,2023-04-15,Clothing,$47,False,Spain,Los Angeles,
+395,04-12-2023,Home,N/A,False,Canada,Paris,"Low quality, bad experience."
+396,,Home,240,Yes,Spain,New York,Worst purchase ever.
+397a,08-05-2023,Clothing,,True,UK,Paris,"Arrived late, but good quality."
+398,20-02-2023,Home,$490,True,Mexico,Rome,"Meh, it's okay."
+399,,Clothing,,,Mexico,Berlin,Totally worth it!
+,2023/02/17,Clothing,,False,Germany,Rome,"Defective item, had to return."
+401,2023-11-13,Clothing,$263,True,UK,London,Totally worth it!
+402,2023/02/27,,N/A,No,USA,Madrid,Would buy again!
+,2023-12-10,Clothing,,False,France,Paris,Amazing!
+,2023/10/08,,,False,France,Rome,"Low quality, bad experience."
+,2023-04-09,,N/A,No,Spain,London,"Defective item, had to return."
+,2023/10/08,Electronics,,No,USA,Toronto,"Defective item, had to return."
+407,2023-11-01,Electronics,112,False,UK,Toronto,Totally worth it!
+408,31-07-2023,Clothing,,False,Italy,Madrid,Excellent product!
+409a,,Electronics,-144,Yes,Italy,Los Angeles,"Arrived late, but good quality."
+410a,14-04-2023,Electronics,$126,Unknown,Germany,New York,"Low quality, bad experience."
+411,22-11-2023,Home,,False,Spain,Madrid,"Low quality, bad experience."
+412a,2023-07-02,Clothing,-89,Yes,UK,,"Low quality, bad experience."
+,27-08-2023,Clothing,107,Unknown,Mexico,New York,"Low quality, bad experience."
+414,2023-05-29,Electronics,,False,Germany,Berlin,Worst purchase ever.
+415,2023-10-21,,$237,True,France,New York,Worst purchase ever.
+,29-10-2023,Clothing,N/A,Yes,France,Paris,Customer service was awful.
+417a,,Home,N/A,True,Canada,New York,Would buy again!
+418a,25-11-2023,Electronics,-117,True,UK,New York,"Defective item, had to return."
+419,2023/05/13,Electronics,-47,Yes,Canada,,Worst purchase ever.
+,,Clothing,,Yes,USA,Madrid,Totally worth it!
+421,08-06-2023,Home,$367,No,Mexico,,"Arrived late, but good quality."
+,2023-10-11,Electronics,,Unknown,Italy,Los Angeles,Amazing!
+,2023/10/22,Electronics,$447,No,Italy,Madrid,
+424a,2023/10/05,Home,266,False,Italy,Rome,"Defective item, had to return."
+,22-11-2023,Electronics,N/A,No,Canada,London,Would buy again!
+,,Electronics,$398,False,Spain,Rome,"Arrived late, but good quality."
+427a,06-12-2023,Clothing,483,,UK,Toronto,Customer service was awful.
+428a,2023/03/01,Electronics,188$,No,Canada,Paris,Would buy again!
+429a,25-01-2023,,$419,True,Germany,London,Worst purchase ever.
+430a,21-02-2023,Clothing,$347,No,Canada,London,"Meh, it's okay."
+,2023-06-18,,$35,False,Canada,London,Would buy again!
+,2023/11/15,Electronics,-162,Yes,Canada,,Excellent product!
+433,08-10-2023,Clothing,108$,Yes,Mexico,Toronto,
+434a,24-11-2023,Clothing,155,No,France,Los Angeles,Totally worth it!
+435a,2023/04/11,Home,$70,,Mexico,Berlin,
+,2023-11-01,Home,401,False,Mexico,,Amazing!
+437a,2023-09-03,Home,,No,UK,,Amazing!
+,2023/04/29,Electronics,$115,,Canada,Toronto,Excellent product!
+439,2023-07-24,Home,,No,UK,Madrid,"Low quality, bad experience."
+440,2023/04/26,Electronics,56$,False,France,London,
+441a,2023-08-21,,301$,,Italy,Toronto,"Meh, it's okay."
+,2023-09-09,,470,No,UK,Madrid,Customer service was awful.
+443a,09-07-2023,Clothing,214$,False,Germany,New York,"Low quality, bad experience."
+,2023/05/04,,N/A,False,Italy,London,
+445,2023-11-23,Electronics,N/A,True,UK,Toronto,Customer service was awful.
+446,2023/04/06,,180,False,UK,Paris,Would buy again!
+447,2023-10-09,,2,,Canada,Los Angeles,
+448,01-07-2023,Clothing,,Yes,Spain,London,Would buy again!
+449a,2023-09-25,Electronics,,Yes,Italy,Paris,Customer service was awful.
+450,2023/05/17,Clothing,272,Unknown,Mexico,Madrid,Customer service was awful.
+451a,2023/01/30,,N/A,Yes,Spain,London,Amazing!
+,2023-12-09,Electronics,245,False,Mexico,Rome,"Meh, it's okay."
+453,2023/03/23,,N/A,,USA,Los Angeles,Worst purchase ever.
+,,Home,448,False,Mexico,Paris,"Low quality, bad experience."
+455,2023-08-03,Electronics,,No,Germany,Paris,
+456,2023-05-01,Electronics,,Unknown,France,Madrid,Worst purchase ever.
+457a,2023-04-06,Clothing,500$,False,Mexico,London,"Defective item, had to return."
+458,2023-11-27,,322$,Yes,France,Los Angeles,
+,2023-10-18,Clothing,N/A,No,Spain,Berlin,"Low quality, bad experience."
+460a,,,$33,Unknown,Spain,Madrid,"Defective item, had to return."
+461,15-06-2023,Electronics,416,True,Mexico,New York,"Defective item, had to return."
+,2023-03-28,Electronics,,Yes,Germany,Paris,Totally worth it!
+463,2023/03/18,Electronics,N/A,True,France,,Would buy again!
+464a,2023-06-08,Electronics,35,Unknown,USA,Paris,Would buy again!
+465a,2023/07/27,Home,,Unknown,UK,Toronto,"Defective item, had to return."
+466a,2023-02-08,,,False,UK,,Excellent product!
+,06-06-2023,Home,$271,False,France,London,"Defective item, had to return."
+468,2023/07/25,,$363,False,USA,Rome,
+469a,2023-02-22,,492$,,USA,,
+470a,2023-11-18,Electronics,158,True,France,Berlin,"Meh, it's okay."
+471a,2023/11/20,Clothing,N/A,False,Mexico,Paris,
+472,2023-03-10,Electronics,77$,True,Mexico,Berlin,Excellent product!
+473a,2023/11/01,Home,N/A,False,USA,Los Angeles,"Arrived late, but good quality."
+474,2023-11-21,Home,N/A,Unknown,France,Toronto,
+,2023-07-05,,490$,No,Mexico,New York,"Defective item, had to return."
+476,09-07-2023,Electronics,105,True,Spain,Los Angeles,Customer service was awful.
+,,,481,True,Germany,Rome,Excellent product!
+,15-08-2023,Electronics,N/A,False,USA,Madrid,Excellent product!
+479,2023-11-12,Clothing,N/A,False,Spain,Madrid,Would buy again!
+,28-12-2023,Clothing,$339,False,USA,Los Angeles,Worst purchase ever.
+481,,,407$,,Germany,Paris,
+482,2023-03-14,Home,360,Unknown,UK,Rome,
+483,31-10-2023,Clothing,12$,True,Germany,New York,Excellent product!
+484,2023-12-22,,267$,,Canada,New York,"Arrived late, but good quality."
+485a,2023-12-30,,,True,Germany,Berlin,"Arrived late, but good quality."
+486a,26-05-2023,Electronics,N/A,,Spain,Madrid,"Arrived late, but good quality."
+,2023/07/08,Electronics,426$,No,Germany,London,"Defective item, had to return."
+488,2023/05/03,Electronics,$456,Unknown,Mexico,New York,
+,2023-02-27,,$42,False,Mexico,Los Angeles,Totally worth it!
+490,2023/11/19,,N/A,True,USA,Los Angeles,"Meh, it's okay."
+491a,15-12-2023,Clothing,418,No,UK,London,Amazing!
+492,,Clothing,N/A,False,Italy,,
+493,2023-12-22,Electronics,N/A,False,Spain,London,Totally worth it!
+,2023/06/13,,434$,Unknown,UK,Berlin,Totally worth it!
+495a,,Electronics,$437,No,France,Toronto,Customer service was awful.
+496,2023-09-19,Home,N/A,,Spain,Rome,"Meh, it's okay."
+,2023/03/18,Electronics,-20,False,Germany,Madrid,Would buy again!
+498a,2023/10/10,,115$,False,Canada,Los Angeles,Totally worth it!
+499a,2023-12-04,,,,Germany,Toronto,"Meh, it's okay."
+500a,2023/04/23,Clothing,406$,,Germany,London,Amazing!
+501a,14-08-2023,,429,False,Mexico,Paris,
+502a,2023-11-22,,$347,Unknown,Spain,New York,
+,2023/06/22,Clothing,,True,Germany,Los Angeles,Would buy again!
+504,2023/10/06,Electronics,N/A,No,Spain,Toronto,
+,2023/03/12,Clothing,N/A,False,Germany,Madrid,Totally worth it!
+506a,2023-11-09,,191,,Italy,Berlin,
+,11-05-2023,Clothing,$427,No,Germany,Madrid,Totally worth it!
+508,2023-08-20,Clothing,,False,Italy,,"Meh, it's okay."
+509,04-07-2023,,-88,False,Germany,Rome,
+,2023/01/06,Home,,No,Italy,Madrid,"Low quality, bad experience."
+511a,2023-06-03,Electronics,415,,Germany,Madrid,"Low quality, bad experience."
+,2023/12/20,Clothing,N/A,,USA,Los Angeles,Excellent product!
+513,2023-08-17,,$208,Unknown,France,Paris,
+514a,25-02-2023,Clothing,$267,,Spain,New York,"Low quality, bad experience."
+,2023-12-15,Clothing,N/A,Unknown,France,London,"Low quality, bad experience."
+,05-09-2023,Clothing,446$,,Canada,Berlin,
+517,2023-11-28,Home,$151,No,Italy,Rome,"Meh, it's okay."
+518a,10-01-2023,Electronics,309$,False,UK,Paris,"Arrived late, but good quality."
+519,2023/05/24,Home,$315,No,UK,,"Meh, it's okay."
+,2023/08/05,Home,473,True,Canada,New York,
+521,2023/10/21,Clothing,304$,Unknown,France,Madrid,"Defective item, had to return."
+522,2023/07/01,,N/A,No,Mexico,Paris,Worst purchase ever.
+523a,2023/04/10,Clothing,101$,Unknown,Germany,London,"Low quality, bad experience."
+,2023/09/24,Electronics,N/A,,Italy,New York,
+525a,,Home,$160,True,Spain,Toronto,Customer service was awful.
+526,,Clothing,N/A,True,Germany,Los Angeles,
+527a,23-11-2023,Electronics,,No,USA,Madrid,"Meh, it's okay."
+528a,03-11-2023,Electronics,318,Yes,Germany,Toronto,Customer service was awful.
+529a,2023/02/25,,$403,True,Canada,,
+530a,2023-09-06,Home,$105,No,Canada,Rome,Totally worth it!
+531a,07-09-2023,Home,384,False,Mexico,New York,Totally worth it!
+532,2023-12-26,Clothing,177$,False,Mexico,Toronto,Worst purchase ever.
+533,,,254$,,Germany,Madrid,"Low quality, bad experience."
+534,28-07-2023,,117,False,Canada,Paris,"Arrived late, but good quality."
+535a,2023-02-12,Clothing,300,,Germany,New York,Totally worth it!
+536a,22-08-2023,Clothing,-156,Yes,France,Madrid,Totally worth it!
+537,07-10-2023,,$449,False,Canada,,"Meh, it's okay."
+538,12-05-2023,Home,257$,Yes,Italy,Toronto,Excellent product!
+539,2023/12/01,Clothing,-29,Unknown,France,Toronto,"Defective item, had to return."
+,05-02-2023,Home,423,Yes,Canada,Paris,Customer service was awful.
+,2023-10-09,Electronics,N/A,True,USA,Toronto,Customer service was awful.
+,2023/03/21,Electronics,,Unknown,Canada,Paris,Totally worth it!
+543a,2023-12-26,Home,$206,False,Italy,New York,Totally worth it!
+,,Electronics,57$,Yes,Spain,Paris,Amazing!
+,2023/03/25,Electronics,$60,,USA,Rome,Amazing!
+546,20-01-2023,Clothing,,Yes,Canada,Berlin,
+547,2023-08-23,,$240,True,Germany,London,
+548a,,,,True,UK,Madrid,"Low quality, bad experience."
+549,2023/09/22,Electronics,,False,Mexico,Los Angeles,"Defective item, had to return."
+550,16-02-2023,Home,,No,Mexico,Rome,"Arrived late, but good quality."
+,2023-07-25,Home,162$,No,Germany,Toronto,"Defective item, had to return."
+552a,30-04-2023,Clothing,126,,France,London,Excellent product!
+553,23-03-2023,Home,,False,Mexico,Paris,"Meh, it's okay."
+554,13-10-2023,Clothing,,Unknown,Germany,Toronto,Totally worth it!
+555a,2023-12-04,Home,266$,False,UK,Los Angeles,Worst purchase ever.
+556a,2023-11-18,Clothing,420$,,USA,New York,Customer service was awful.
+557,2023/04/06,Clothing,$326,False,Italy,Toronto,
+,11-11-2023,Electronics,,Unknown,USA,Rome,
+559a,22-10-2023,Electronics,468$,False,UK,Paris,
+560a,03-09-2023,Clothing,$392,Unknown,Germany,,"Defective item, had to return."
+,,Home,78$,No,USA,London,"Low quality, bad experience."
+562,2023-02-08,Clothing,351$,No,Italy,Toronto,"Arrived late, but good quality."
+563a,11-11-2023,Clothing,,True,Italy,New York,Amazing!
+564a,2023-02-24,,$279,Unknown,USA,Toronto,"Low quality, bad experience."
+565a,2023/01/11,Electronics,63$,False,UK,New York,"Meh, it's okay."
+,2023/01/09,Home,153$,False,Spain,Paris,Amazing!
+567a,2023/10/11,Clothing,$229,Unknown,USA,Rome,Amazing!
+,2023-02-28,Clothing,$355,Unknown,Germany,New York,Totally worth it!
+569a,2023-08-30,Clothing,52$,True,Italy,Paris,Customer service was awful.
+570,2023-03-26,,N/A,Unknown,Germany,Madrid,Would buy again!
+571,2023/03/07,Electronics,$196,No,Germany,Toronto,"Low quality, bad experience."
+572a,2023-09-08,,95,False,UK,New York,Customer service was awful.
+,23-01-2023,,371$,False,France,Madrid,"Arrived late, but good quality."
+574a,15-12-2023,,64$,Unknown,Canada,,"Arrived late, but good quality."
+575a,2023/11/09,Clothing,393,False,Germany,Berlin,"Meh, it's okay."
+576,2023/05/14,,$59,False,Canada,New York,"Low quality, bad experience."
+,12-12-2023,Home,,No,France,Berlin,"Arrived late, but good quality."
+578,2023/10/12,,,False,France,Paris,Excellent product!
+,10-09-2023,Home,51$,True,Spain,,Excellent product!
+580a,02-01-2023,Clothing,,Unknown,Germany,New York,Totally worth it!
+581,2023-06-01,Home,N/A,False,Germany,Madrid,
+582a,2023-10-03,Clothing,,Yes,Germany,Toronto,"Low quality, bad experience."
+583,2023-08-08,Electronics,131$,Unknown,Spain,Toronto,Worst purchase ever.
+584,10-05-2023,Electronics,$336,True,USA,,Excellent product!
+585a,2023-07-01,,458,,Canada,Rome,"Arrived late, but good quality."
+,15-11-2023,Electronics,-79,Yes,Italy,Madrid,Amazing!
+587a,2023-09-14,Home,209$,False,Mexico,Madrid,
+588a,2023-02-20,,187$,Unknown,USA,Paris,Customer service was awful.
+589,2023-03-19,Electronics,63,True,Canada,Toronto,
+590,06-11-2023,Electronics,N/A,False,Mexico,Los Angeles,
+,2023-03-06,Clothing,$134,True,Italy,Los Angeles,"Low quality, bad experience."
+,13-08-2023,,-61,No,Canada,Toronto,Totally worth it!
+593a,,Clothing,$309,False,Mexico,Los Angeles,Would buy again!
+,2023/05/18,,428,False,Germany,New York,Totally worth it!
+,20-05-2023,Clothing,N/A,Yes,Canada,Berlin,"Meh, it's okay."
+596,19-03-2023,,N/A,False,USA,Madrid,Worst purchase ever.
+597a,2023/09/17,Home,$278,Yes,Mexico,,Totally worth it!
+598a,2023/03/05,,108$,True,Germany,New York,"Arrived late, but good quality."
+599a,2023/12/16,Electronics,11$,,USA,Madrid,Amazing!
